@@ -1,4 +1,4 @@
-<h1 align="center" style="color:white;">SANGAVI PANDI M.</h1>
+<h1 align="center" style="color:white;">SANGAVI PANDI M</h1>
 
 ---
 
