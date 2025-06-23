@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I'm Sangavi Pandi!
 
-<!--
-**SangaviPandi/SangaviPandi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 2nd-year CSE (AIML) student passionate about Machine Learning, Deep Learning, and Web Development.  
+Here's a quick look at some of my key projects:
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚦 Traffic Sign Recognition  
+- Recognizes Indian traffic signs using CNN and TensorFlow  
+- Integrated with OpenCV for real-time webcam input  
+- Speaks out predictions using text-to-speech  
+🔗 [View Project](https://github.com/SangaviPandi/TrafficSign)
+
+---
+
+## 🧹 Smart Waste Management  
+- IoT-based system to monitor garbage bin levels  
+- Uses sensors and ML logic for optimized waste collection  
+🔗 [View Project](https://github.com/SangaviPandi/SmartWaste)
+
+---
+
+## 🛒 Website for Shop Market  
+- Built using HTML, CSS & JavaScript  
+- Product listings, images, and "Buy Now" functionality  
+🔗 [View Live Website](https://sangavipandi.github.io/HTML-website)
+
+---
+
+### 🔗 [Visit My GitHub Portfolio](https://github.com/SangaviPandi)
