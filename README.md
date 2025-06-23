@@ -36,6 +36,7 @@
 
 ### 📫 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/sangavi-pandi-b08230320)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/sangavi_pandi/) 
 📧 sangavipandi8@gmail.com  
 📍 Pollachi, Tamil Nadu, India  
 
