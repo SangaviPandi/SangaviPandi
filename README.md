@@ -1,6 +1,4 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=F700D8&center=true&vCenter=true&width=600&lines=SANGAVI+PANDI+M." alt="Sangavi Name Animation" />
-</h1>
+<h1 align="center" style="color:white;">SANGAVI PANDI M.</h1>
 
 ---
 
